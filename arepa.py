@@ -9,4 +9,7 @@ print("El aceite es: ", aceite)
 bol = agua  + harina + sal
 budare = bol + aceite
 print("Con la cantidad de ingredientes salieron", budare)
-input("Presione enter para salir")
+print("Buen provecho")
+
+print("Gracias por usar el programa")
+#esto es para que el programa no se cierre al ejecutarse
