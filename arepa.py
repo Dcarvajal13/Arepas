@@ -8,8 +8,7 @@ print("La sal es: ", sal)
 print("El aceite es: ", aceite)
 bol = agua  + harina + sal
 budare = bol + aceite
-print("Con la cantidad de ingredientes salieron", budare)
-print("Buen provecho")
+print("Con la cantidad de ingredientes que usaste fueron: ", budare)
+print("que tengas un buen provecho")
 
-print("Gracias por usar el programa")
-#esto es para que el programa no se cierre al ejecutarse
+print("Muchas Gracias por usar el programa")
